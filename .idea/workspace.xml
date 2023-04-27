@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682567679056</updated>
       <workItem from="1682567688557" duration="270000" />
-      <workItem from="1682567959925" duration="1307000" />
+      <workItem from="1682567959925" duration="1372000" />
     </task>
     <task id="LOCAL-00001" summary="log">
       <created>1682568580439</created>
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682568983211</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="laravel release">
+      <created>1682569283579</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682569283579</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
