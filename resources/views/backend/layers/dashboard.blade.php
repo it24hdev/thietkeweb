@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Custom Auth in Laravel</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&amp;display=swap" rel="stylesheet">
+    @yield('css')
 </head>
 <body>
 <nav class="navbar navbar-light navbar-expand-lg mb-5" style="background-color: #e3f2fd;">
@@ -30,6 +30,9 @@
         </div>
     </div>
 </nav>
-@yield('content')
+@yield('body')
+<script src="{{asset('library/jquery/jquery-3.1.1.min.js')}}"></script>
+<script src="{{asset('library/bootstrap/js/bootstrap.min.js')}}"></script>
+@yield('js')
 </body>
 </html>

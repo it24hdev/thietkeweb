@@ -1,5 +1,5 @@
 @extends('backend.layers.dashboard')
-@section('content')
+@section('body')
     <main class="signup-form">
         <div class="cotainer">
             <div class="row justify-content-center">
