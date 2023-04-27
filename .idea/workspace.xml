@@ -16,7 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61d41ff1-b978-4450-a161-3f734476a6d8" name="Default Changelist" comment="" />
+    <list default="true" id="61d41ff1-b978-4450-a161-3f734476a6d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/it24hdev/thietkeweb.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="2Oze8MxqNZTmVl7GQMpaN1gyu7k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682567679056</updated>
       <workItem from="1682567688557" duration="270000" />
-      <workItem from="1682567959925" duration="959000" />
+      <workItem from="1682567959925" duration="1307000" />
     </task>
     <task id="LOCAL-00001" summary="log">
       <created>1682568580439</created>
@@ -75,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682568905710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="laravel release">
+      <created>1682568931637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682568931638</updated>
+    </task>
+    <task id="LOCAL-00005" summary="laravel release">
+      <created>1682568983211</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682568983211</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +110,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
